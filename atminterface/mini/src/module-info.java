@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author MATHI
+ *
+ */
+module mini {
+}
